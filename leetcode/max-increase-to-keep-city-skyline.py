@@ -17,6 +17,3 @@ class Solution:
         print(colMax)
         return result
         
-
-
-        
